@@ -1,0 +1,31 @@
+
+h1 {
+    font-size:90px;
+    background-color:black;
+}
+
+
+header {
+    background-color: blue;
+    height: 50px;
+    }
+
+nav {
+    background-color: rgba (0, 0, 0, 338);
+    height: 40px;
+}
+
+
+footer {
+    background-color: greenyellow;
+    height: 100px;
+    font-family: sans-serif;
+}
+
+
+p {
+    font-size: 18px;
+    color: palegoldenrod;
+    font-family: sans-serif;
+}
+
